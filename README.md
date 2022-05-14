@@ -18,6 +18,6 @@ B: "Firebird's Devotion" | 1x strike of BD + Enemy burning + Enemy DEF reduction
 QH: "Quick Heal" | +1,000 player HP
 
 # Install Instructions
-1. Click the 'Code' button and download it.
-2. Open the .zip file you downloaded, dragging out the contents into a folder or on your desktop.
-3. Open the folder and run renpy.exe
+1. Click the 'Code' button and click 'Download ZIP'.
+2. Open the .zip file you downloaded, and drag out the gacha-charactertestandbattle-main folder onto your desktop or similar.
+3. Open the folder and run rpg_battle_chr_test.exe
