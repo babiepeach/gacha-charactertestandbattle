@@ -1,6 +1,6 @@
 {
     "version" : 3,
-    "image" : "https://www.domain.com/images/newproject.jpg,
+    "image" : "https://github.com/babiepeach/gacha-charactertestandbattle/blob/main/news-banner.jpg",
     "link" : "https://github.com/babiepeach/gacha-charactertestandbattle",
-    "text" : "Check out the {a=https://www.domain.com/newproject/}new{/a} update!"
+    "text" : "Check out the {a=https://github.com/babiepeach/gacha-charactertestandbattle/}new{/a} update!"
 }
